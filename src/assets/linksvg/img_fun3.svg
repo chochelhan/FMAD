@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90.616" height="92.572" viewBox="0 0 90.616 92.572">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.48;
+      }
+
+      .cls-2 {
+        fill: #d4d5fc;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #455281;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="img_fun3" transform="translate(-1313.691 -1305.559)">
+    <g id="그룹_6" data-name="그룹 6" class="cls-1" transform="translate(1313.691 1315.545)">
+      <g id="그룹_117" data-name="그룹 117" transform="translate(0 0)">
+        <path id="패스_67" data-name="패스 67" class="cls-2" d="M-807.889,159.471s-26.864.54-32.152,20.683,4.23,55.215,40.4,53.417,48.651-16.546,48.651-32.194S-744.219,151.917-807.889,159.471Z" transform="translate(841.396 -158.386)"/>
+        <ellipse id="타원_13" data-name="타원 13" class="cls-2" cx="19.257" cy="2.777" rx="19.257" ry="2.777" transform="translate(26.372 77.032)"/>
+      </g>
+    </g>
+    <g id="그룹_12" data-name="그룹 12" transform="translate(-425.479 769.974)">
+      <path id="패스_80" data-name="패스 80" class="cls-3" d="M1775.852,542.955l-3.625-4.982a2.156,2.156,0,0,0-1.744-.888h-15.156a2.157,2.157,0,0,0-2.157,2.157v59.02a2.157,2.157,0,0,0,2.157,2.156h59.02a2.157,2.157,0,0,0,2.156-2.156V546a2.157,2.157,0,0,0-2.156-2.157H1777.6A2.157,2.157,0,0,1,1775.852,542.955Z" transform="translate(0)"/>
+      <line id="선_7" data-name="선 7" class="cls-3" x2="63.333" transform="translate(1753.17 554.338)"/>
+      <line id="선_8" data-name="선 8" class="cls-3" x2="2.3" transform="translate(1759.352 545.783)"/>
+      <line id="선_9" data-name="선 9" class="cls-3" x2="2.3" transform="translate(1763.558 545.783)"/>
+      <line id="선_10" data-name="선 10" class="cls-3" x2="2.3" transform="translate(1767.763 545.783)"/>
+      <path id="패스_81" data-name="패스 81" class="cls-3" d="M1807.734,669.96l-1.168-1.933a2.534,2.534,0,0,0-3.479-.858l-12.873,7.782a2.588,2.588,0,0,0-.876,3.553l4.76,7.875a2.588,2.588,0,0,0,3.553.876l12.873-7.782a2.534,2.534,0,0,0,.858-3.479l-1.281-2.119" transform="translate(-25.715 -93.196)"/>
+      <path id="패스_82" data-name="패스 82" class="cls-3" d="M1868.4,638.91l1.168,1.933a2.534,2.534,0,0,0,3.479.858l12.873-7.782a2.588,2.588,0,0,0,.876-3.554l-4.76-7.875a2.588,2.588,0,0,0-3.554-.876l-12.873,7.782a2.534,2.534,0,0,0-.858,3.479l1.281,2.119" transform="translate(-79.901 -60.461)"/>
+      <line id="선_11" data-name="선 11" class="cls-3" y1="5.801" x2="9.597" transform="translate(1780.459 574.706)"/>
+    </g>
+  </g>
+</svg>

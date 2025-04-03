@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="51" viewBox="0 0 44 51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #686efb;
+      }
+    </style>
+  </defs>
+  <g id="ico_user" transform="translate(-1791 -72)">
+    <ellipse id="타원_3" data-name="타원 3" class="cls-1" cx="11" cy="10" rx="11" ry="10" transform="translate(1802 72)"/>
+    <ellipse id="타원_4" data-name="타원 4" class="cls-1" cx="22" cy="14.5" rx="22" ry="14.5" transform="translate(1791 94)"/>
+  </g>
+</svg>

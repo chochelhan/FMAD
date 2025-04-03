@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="92" viewBox="0 0 90 92">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.48;
+      }
+
+      .cls-2 {
+        fill: #d4d5fc;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #455281;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="img_chat2" transform="translate(-1154 -3048)">
+    <g id="그룹_3" data-name="그룹 3" class="cls-1" transform="translate(1154 3048)">
+      <g id="그룹_117" data-name="그룹 117" transform="translate(0 0)">
+        <path id="패스_67" data-name="패스 67" class="cls-2" d="M-808.117,159.607s-26.681.607-31.933,23.271,4.2,62.123,40.127,60.1,48.32-18.617,48.32-36.222S-744.88,151.108-808.117,159.607Z" transform="translate(841.396 -158.386)"/>
+        <ellipse id="타원_13" data-name="타원 13" class="cls-2" cx="19.257" cy="2.777" rx="19.257" ry="2.777" transform="translate(26.061 86.447)"/>
+      </g>
+    </g>
+    <g id="그룹_9" data-name="그룹 9" transform="translate(696.381 2597.6)">
+      <path id="패스_76" data-name="패스 76" class="cls-3" d="M554.455,468.692H540.876a9.791,9.791,0,0,0-9.791,9.79v15.342h.06v6.526a.789.789,0,0,0,1.339.565l6.6-6.413a2.394,2.394,0,0,1,1.669-.678h13.9a9.735,9.735,0,0,0,9.736-9.735V478.62A9.929,9.929,0,0,0,554.455,468.692Z" transform="translate(-48.466 0)"/>
+      <path id="패스_77" data-name="패스 77" class="cls-3" d="M581.967,516.035h11.727a8.4,8.4,0,0,1,8.455,8.347v13.08H602.1v5.563a.682.682,0,0,1-1.156.482l-5.7-5.468a2.081,2.081,0,0,0-1.441-.578h-12a8.354,8.354,0,0,1-8.407-8.3V524.5A8.52,8.52,0,0,1,581.967,516.035Z" transform="translate(-75.294 -30.02)"/>
+    </g>
+  </g>
+</svg>

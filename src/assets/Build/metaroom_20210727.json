@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "departImgTest2",
+"productVersion": "0.1",
+"dataUrl": "metaroom_20210727.data.unityweb",
+"wasmCodeUrl": "metaroom_20210727.wasm.code.unityweb",
+"wasmFrameworkUrl": "metaroom_20210727.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}

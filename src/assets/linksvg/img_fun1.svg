@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110.5" height="109" viewBox="0 0 110.5 109">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.48;
+      }
+
+      .cls-2 {
+        fill: #d4d5fc;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #455281;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="img_fun1" transform="translate(-502 -1293.273)">
+    <g id="그룹_1" data-name="그룹 1" class="cls-1" transform="translate(502 1326.57)">
+      <g id="그룹_117" data-name="그룹 117" transform="translate(0 0)">
+        <path id="패스_67" data-name="패스 67" class="cls-2" d="M-810.681,159.38s-24.625.495-29.473,18.96,3.878,50.614,37.035,48.965,44.6-15.168,44.6-29.511S-752.317,152.456-810.681,159.38Z" transform="translate(841.396 -158.386)"/>
+        <ellipse id="타원_13" data-name="타원 13" class="cls-2" cx="17.652" cy="2.545" rx="17.652" ry="2.545" transform="translate(24.175 70.613)"/>
+      </g>
+    </g>
+    <g id="그룹_7" data-name="그룹 7" transform="translate(519.75 1295.273)">
+      <rect id="사각형_39" data-name="사각형 39" class="cls-3" width="33.382" height="19.431" rx="4" transform="translate(5.586 47.503)"/>
+      <line id="선_1" data-name="선 1" class="cls-3" y2="8.48" transform="translate(0 52.845)"/>
+      <line id="선_2" data-name="선 2" class="cls-3" y2="8.48" transform="translate(45.411 52.845)"/>
+      <line id="선_3" data-name="선 3" class="cls-3" y2="8.48" transform="translate(29.588 52.845)"/>
+      <line id="선_4" data-name="선 4" class="cls-3" y2="8.48" transform="translate(15.562 52.845)"/>
+      <path id="패스_75" data-name="패스 75" class="cls-3" d="M451.426,650.822s.842-11.4,10.714-12.631h13.426s10.959.082,12.028,13.533" transform="translate(-446.578 -565.59)"/>
+      <path id="패스_76" data-name="패스 76" class="cls-4" d="M558.442,468.692h-15.9a11.461,11.461,0,0,0-11.461,11.461v17.959h.07v7.639a.923.923,0,0,0,1.567.662l7.721-7.507a2.8,2.8,0,0,1,1.954-.794h16.272a11.4,11.4,0,0,0,11.4-11.4v-6.4A11.622,11.622,0,0,0,558.442,468.692Z" transform="translate(-492.117 -468.692)"/>
+      <path id="패스_77" data-name="패스 77" class="cls-4" d="M583.43,516.035h13.727a9.835,9.835,0,0,1,9.9,9.771v15.311h-.06v6.512a.8.8,0,0,1-1.353.565l-6.667-6.4a2.436,2.436,0,0,0-1.687-.676H583.235a9.779,9.779,0,0,1-9.841-9.716v-5.457A9.973,9.973,0,0,1,583.43,516.035Z" transform="translate(-516.304 -495.757)"/>
+    </g>
+  </g>
+</svg>

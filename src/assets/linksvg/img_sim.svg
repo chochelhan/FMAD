@@ -1,0 +1,29 @@
+<svg id="img_sim" xmlns="http://www.w3.org/2000/svg" width="29.487" height="29.487" viewBox="0 0 29.487 29.487">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e4a040;
+      }
+
+      .cls-2 {
+        fill: #d25984;
+      }
+
+      .cls-3 {
+        fill: #68af52;
+      }
+
+      .cls-4 {
+        fill: #5ba1e1;
+      }
+    </style>
+  </defs>
+  <rect id="사각형_30" data-name="사각형 30" class="cls-1" width="13.015" height="12.969" transform="translate(0 0)"/>
+  <rect id="사각형_31" data-name="사각형 31" class="cls-2" width="13.015" height="12.969" rx="6.484" transform="translate(16.472 16.519)"/>
+  <rect id="사각형_32" data-name="사각형 32" class="cls-3" width="13.015" height="4.394" transform="translate(16.472 0)"/>
+  <rect id="사각형_33" data-name="사각형 33" class="cls-3" width="13.015" height="4.394" transform="translate(16.472 8.33)"/>
+  <rect id="사각형_34" data-name="사각형 34" class="cls-4" width="4.302" height="4.394" transform="translate(0 16.763)"/>
+  <rect id="사각형_35" data-name="사각형 35" class="cls-4" width="4.302" height="4.394" transform="translate(0 25.093)"/>
+  <rect id="사각형_36" data-name="사각형 36" class="cls-4" width="4.302" height="4.394" transform="translate(8.465 16.763)"/>
+  <rect id="사각형_37" data-name="사각형 37" class="cls-4" width="4.302" height="4.394" transform="translate(8.465 25.093)"/>
+</svg>

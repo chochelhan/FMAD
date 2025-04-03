@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90.616" height="99.546" viewBox="0 0 90.616 99.546">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.48;
+      }
+
+      .cls-2 {
+        fill: #d4d5fc;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+        stroke: #455281;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #455281;
+      }
+
+      .cls-5 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="img_fun2" transform="translate(-914.691 -1312.454)">
+    <g id="그룹_232" data-name="그룹 232" class="cls-1" transform="translate(914.691 1329.415)">
+      <g id="그룹_117" data-name="그룹 117" transform="translate(0 0)">
+        <path id="패스_67" data-name="패스 67" class="cls-2" d="M-807.889,159.471s-26.864.54-32.152,20.683,4.23,55.215,40.4,53.417,48.651-16.546,48.651-32.194S-744.219,151.917-807.889,159.471Z" transform="translate(841.396 -158.386)"/>
+        <ellipse id="타원_13" data-name="타원 13" class="cls-2" cx="19.257" cy="2.777" rx="19.257" ry="2.777" transform="translate(26.372 77.032)"/>
+      </g>
+    </g>
+    <g id="그룹_233" data-name="그룹 233" transform="translate(-68.455 825.124)">
+      <path id="패스_78" data-name="패스 78" class="cls-3" d="M1036.577,532.6V492.585a3.538,3.538,0,0,0-3.271-3.755H1003.25a3.538,3.538,0,0,0-3.271,3.755v67.589a3.538,3.538,0,0,0,3.271,3.755h31.029" transform="translate(1.416)"/>
+      <line id="선_5" data-name="선 5" class="cls-3" x2="36.598" transform="translate(1001.396 495.243)"/>
+      <line id="선_6" data-name="선 6" class="cls-3" x2="32.069" transform="translate(1001.396 554.796)"/>
+      <rect id="사각형_40" data-name="사각형 40" class="cls-4" width="6.63" height="3.112" rx="1.556" transform="translate(1017.43 558.043)"/>
+      <path id="패스_79" data-name="패스 79" class="cls-5" d="M1167.631,650.447h-4.113l-4.169,23.139h-21.576l-2.986-16.508H1162" transform="translate(-99.086 -118.79)"/>
+      <circle id="타원_14" data-name="타원 14" class="cls-4" cx="3.324" cy="3.324" r="3.324" transform="translate(1041.994 559.464)"/>
+      <circle id="타원_15" data-name="타원 15" class="cls-4" cx="3.324" cy="3.324" r="3.324" transform="translate(1051.145 559.464)"/>
+    </g>
+  </g>
+</svg>

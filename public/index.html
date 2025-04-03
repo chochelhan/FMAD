@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>FMAD</title>
+    <script type="text/javascript"
+            src="//s3.ap-northeast-2.amazonaws.com/vegas-kor-o/sdk/web/sha1.js"></script>
+    <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
+
+    <script>
+        Kakao.init('99d2e84ae88cded24492282a7c9d00a4');
+	    window.shareLink = function(url,subject,img) {
+		    var protocol = document.location.protocol;
+		    var hostName = document.location.hostname;
+		    img = (img)?protocol+'//'+hostName+img:'';
+		    Kakao.Link.sendDefault({
+			    objectType: 'feed',
+			    content: {
+				    title: subject,
+				    imageUrl:img,
+				    link: {
+					    mobileWebUrl: url,
+					    webUrl: url
+				    }
+			    }
+		    });
+	    }
+
+    </script>
+  </head>
+  <body>
+    <noscript>
+      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
+
